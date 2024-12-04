@@ -1,4 +1,6 @@
+<!-- hide -->
 # Working with the Computer File System
+<!-- endhide -->
 
 Another data-structure very commonly used in the world of coding are TREE's, for example:
 
@@ -7,6 +9,8 @@ Another data-structure very commonly used in the world of coding are TREE's, for
 
 In this case, we will use the Tree Hierarchy concept to scan and browse through a group of files in a computer.
 
+<onlyfor saas="false" withBanner="false">
+    
 ## 🌱  How to start this project
 
 Do not clone this repository.
@@ -43,8 +47,9 @@ $ python src/app.py
 $ python src/test.py
 ```
 
-
 💡 **Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.**
+
+</onlyfor>
 
 # 📝 Instructions
 
