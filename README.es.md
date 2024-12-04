@@ -1,4 +1,6 @@
+<!-- hide -->
 # Trabajar con el Sistema de Archivos del Computador
+<!-- endhide -->
 
 Otra estructura de datos muy utilizada en el mundo de la codificación son los árboles (trees), por ejemplo:
 
@@ -7,7 +9,8 @@ Otra estructura de datos muy utilizada en el mundo de la codificación son los �
 
 En este caso, usaremos el concepto de árbol de jerarquía  para escanear y navegar a través de un grupo de archivos en un computador.
 
-
+<onlyfor saas="false" withBanner="false">
+    
 ## 🌱  Cómo iniciar este proyecto
 
 No clones este repositorio.
@@ -45,6 +48,7 @@ $ python src/test.py
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
+</onlyfor>
 
 # 📝 Instrucciones
 
