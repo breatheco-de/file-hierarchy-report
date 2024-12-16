@@ -13,34 +13,35 @@ En este caso, usaremos el concepto de árbol de jerarquía  para escanear y nave
     
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio.
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-1. El primer paso para comenzar a codificar es clonar el [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) en tu computador local o con Gitpod.
+Recomendamos abrir `python boilerplate`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://4geeks.com/how-to/github-clone-repository) en tu computadora local utilizando el comando `git clone`.  
 
-a) Si usas Gitpod (recomendado)  puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/flask-rest-hello).
+Este es el repositorio que necesitas abrir o clonar:  
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
 ```sh
-git clone https://github.com/4GeeksAcademy/flask-rest-hello
+$ git clone https://github.com/4GeeksAcademy/flask-rest-hello
 ```
 
-2. Instala los paquetes de la dependencia
+### Pasos
+
+1. Instala los paquetes de la dependencia
 ```sh
 $ pipenv install --python 3
 ```
 
-3. Ingresa a tu entorno virtual escribiendo: 
+2. Ingresa a tu entorno virtual escribiendo: 
 
 ```sh
 $ pipenv shell
 ```
 
-4. Puedes ejecutar el proyecto escribiendo:
+3. Puedes ejecutar el proyecto escribiendo:
 
 ```sh
 $ python src/app.py
 ```
-5. También puedes ejecutar las pruebas o tests del proyecto:
+4. También puedes ejecutar las pruebas o tests del proyecto:
 
 ```sh
 $ python src/test.py
